@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiran-vijay
-- 👀 I’m interested in Data and Data tools
+- 👀 I’m interested in playing with Data and Data tools
 - 🌱 I’m currently learning various tool that will help me in my Data journey
 - 📫 How to reach me kiranvijay@outlook.in
 
